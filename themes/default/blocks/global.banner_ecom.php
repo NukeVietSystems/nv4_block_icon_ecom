@@ -2,10 +2,10 @@
 
 /**
  * @Project NUKEVIET 4.x
- * @Author VINADES.,JSC <contact@vinades.vn>
- * @Copyright (C) 2014 VINADES.,JSC. All rights reserved
+ * @Author NV SYSTEMS <hoangnt@nguyenvan.vn>
+ * @Copyright (C) 2018 NV SYSTEMS. All rights reserved
  * @License GNU/GPL version 2 or any later version
- * @Createdate Sun, 04 May 2014 12:41:32 GMT
+ * @Createdate Thu, 26 April 2018 12:41:32 GMT
  */
 
 if (!defined('NV_MAINFILE')) {
